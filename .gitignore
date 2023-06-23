@@ -25,9 +25,9 @@ share/python-wheels/
 .installed.cfg
 *.egg
 pyvenv.cfg
-bin/
-share/
-etc/jupyter/nbconfig/notebook.d/
+bin
+share
+etc
 MANIFEST
 
 # PyInstaller
