@@ -28,6 +28,7 @@ pyvenv.cfg
 bin/
 share/
 etc/
+pyvenv.cfg
 MANIFEST
 
 # PyInstaller
