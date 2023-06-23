@@ -25,9 +25,9 @@ share/python-wheels/
 .installed.cfg
 *.egg
 pyvenv.cfg
-bin
-share
-etc
+bin/
+share/
+etc/
 MANIFEST
 
 # PyInstaller
