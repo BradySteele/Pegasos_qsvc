@@ -1,2 +1,1 @@
-# Pegasos_qsvc
-Pegasos Quantum Support Vector Classifier
+# Pegasos Quantum Support Vector Classifier
